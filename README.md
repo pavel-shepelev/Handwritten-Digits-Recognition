@@ -1,1 +1,1 @@
-# Handwritten-Digits-Recognition
+# kNN
